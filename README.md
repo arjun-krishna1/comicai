@@ -1,9 +1,8 @@
 # MVP
-- user can select characters
-- type in text prompt "main character is punching other character"
-- generates a comic panel
-- they can use their panels to generate new panels, etc
-    - build on top of them and so on
+- user can upload custom picture
+- input a prompt
+- does img2img with prompt and custom picture
+- displays on the screen
 
 # Motivation
 - People want to create art
